@@ -3,15 +3,14 @@
     <img width="750" src="https://raw.githubusercontent.com/ArdityoCahyo/CourtCounter/master/app/src/main/res/drawable/header.png" title="CourtCounter" alt="CourtCounter">
   </a>
   <br>
-  <br>
-  <strong>CourtCounter</strong>
+  <h1>CourtCounter</h1>
 </p>
 <hr/>
 <p align="center">
-  <img src="https://badgen.net/badge/version/v1.1-alpha/blue" title="Current Version" alt="Current Version">
-  <img src="https://badgen.net/badge/build/alpha/grey" title="Build Status" alt="Build Status">
-  <img src="https://badgen.net/badge/progress/45%25/yellow" title="Progress" alt="Progress">                                                                                 
-  <img src="https://badgen.net/github/last-commit/ArdityoCahyo/HotelSeeker" title="Last Commit" alt="Last Commit">                                                                 
+  <img src="https://badgen.net/badge/version/v1.0/blue" title="Current Version" alt="Current Version">
+  <img src="https://badgen.net/badge/build/final/green" title="Build Status" alt="Build Status">
+  <img src="https://badgen.net/badge/progress/100%25/green" title="Progress" alt="Progress">                                                                                 
+  <img src="https://badgen.net/github/last-commit/ArdityoCahyo/CourtCounter" title="Last Commit" alt="Last Commit">                                                                 
 </p>
                                                                                                                  
 ## About
